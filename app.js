@@ -405,7 +405,7 @@ class YashOpsPortfolio {
             <div class="success-details">
                 <p><strong>From:</strong> ${name} (${email})</p>
                 <p><strong>Subject:</strong> ${subject}</p>
-                <p><strong>Status:</strong> Message forwarded to yash@yashops.dev</p>
+                <p><strong>Status:</strong> Message forwarded to vishalbhardwaj34444@gmail.com</p>
                 <p class="success-note">Thank you for reaching out! I'll respond within 24 hours.</p>
             </div>
         `;
