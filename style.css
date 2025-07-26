@@ -1094,6 +1094,7 @@ body {
   position: relative;
   overflow: hidden;
   background: var(--gradient-dark);
+  padding-top: 100px; /* Pushes content below the fixed header */
 }
 
 .hero-bg-animation {
